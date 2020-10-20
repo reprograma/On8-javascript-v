@@ -3,12 +3,11 @@
 
 Assistir a playlist  [JavaScript antes do framework](https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
 
-
 # Instruções para fazer e entregar os exercícios 
 
 ## Como faço pra baixar e enviar os exercícios ?
 
-1. Entre no repositório da Reprograma e "forke" o [repositorio da aula](https://github.com/reprograma/On8-logica-js/)
+1. Entre no repositório da Reprograma e "forke" o [repositorio da aula](https://github.com/reprograma/On8-javascript-v)
 
 2. Clone o repositório para a sua máquina
 
@@ -42,7 +41,7 @@ Assistir a playlist  [JavaScript antes do framework](https://www.youtube.com/wat
    (Verifique que você está na sua branch)
 
    ```
-   git add exercicios-para-casa
+   git add nome-da-pasta 
    git commit -m "texto do seu commit"
    git push origin SEU-NOME
    ```
@@ -52,28 +51,17 @@ Assistir a playlist  [JavaScript antes do framework](https://www.youtube.com/wat
 
 ## Como resolver os exercícios ?
 
-1. Em cada pasta do exercício crie um arquivo script.js e adicionei uma estrutura básica do html no index.html e linke o arquivo script.js
- 
-2. Para certifica-se que o script.js está linkado corretamente, escreva um alert('Oi') e teste em seu navegador.
+1. O exercícios dessa semana é responder as 10 perguntas que estão dentro do arquivo perguntas.js
 
-3. Mão na massa :)
+2. Mão na massa :)
 
 
 **Observação:** Se você cansar, aprenda a descansar, não a desistir. 
 
 
-## E se eu não estiver conseguindo fazer ou com dificuldades ?
-
-- Escreva em português o passo a passo que você pensou para resolver (não se apegue ao JS, mais importante você focar na lógica...vá com calma)
-- Está travada em um exercício? Peça ajuda para colegas ou pra Nat (onde se sentir mais confortável, lembre que todas estamos aprendendo...ninguém vai te julgar)
-- Tente pesquisar no Google
-- Reveja a aula
-- Não desista ( se você tentou de tudo e não conseguiu resolver, copie na cara dura o código e corra atrás de ir entendendo as coisas no seu tempo. Só não começe por essa opção!)
-
-
 ## Até quando devo entregar ?
 
-Sexta-feira 18/09/2020
+Sexta-feira 30/10/2020
 
 ## Dúvidas e sugestões ?
 
