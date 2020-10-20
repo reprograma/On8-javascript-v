@@ -11,7 +11,7 @@ Online T8 | Front-end | 2020 | Semana 12 | ES6
 
 ---
 
-## Destruct
+## Destructuring
 
 ---
 
