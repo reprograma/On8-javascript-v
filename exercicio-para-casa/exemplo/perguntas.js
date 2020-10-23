@@ -37,6 +37,7 @@
  4. Para que serve o Spread e Rest?
 */
 
+
 /*
   Crie um exemplo como utilizar Spred e Rest
 */
@@ -96,15 +97,4 @@
   Crie um exemplo de uma Expressão utilizando o operador &&
 */
 
-
-
-
-/*
-  10. O que é uma Classe?
-
-*/
-
-/*
-  Crie um exemplo de uma classe 
-*/
 

@@ -51,7 +51,7 @@ Assistir a playlist  [JavaScript antes do framework](https://www.youtube.com/wat
 
 ## Como resolver os exercícios ?
 
-1. O exercícios dessa semana é responder as 10 perguntas que estão dentro do arquivo perguntas.js
+1. O exercícios dessa semana é responder as 9 perguntas que estão dentro do arquivo perguntas.js
 
 2. Mão na massa :)
 
