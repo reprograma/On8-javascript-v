@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #e0d4d4;
+}
+
+main {
+  text-align: center;
+}
+
+#titulo {
+  color: #d26363;
+}
+.btn {
+  border: none;
+  border-radius: 8px;
+  width: 100px;
+  height: 40px;
+  outline: none;
+  color: white;
+  background: #272525;
+  margin: 10px;
+}
+
+#box-img {
+  width: 500px;
+  height: 500px;
+  overflow: hidden;
+}
+
+img {
+  width: 100%;
+}

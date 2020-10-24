@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>BuscAnime</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Rubik&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <main class="container">
+      <h1>BuscAnime</h1>
+      <h2>Digite o nome do seu anime favorito!</h2>
+
+      <div class="card__forms">
+        <form action="#">
+          <input
+            type="text"
+            id="nomeAnime"
+            placeholder="Digite o nome do anime"
+          />
+          <button type="submit">Visualizar</button>
+        </form>
+			</div>
+			
+			<p id="mensagemErro" class="mensagem-erro"></p>
+
+			<div class="card">
+				<div class="card-caixa" id="cardCaixa">
+          <a id="cardUrl" href="" class="card-url" target="_blank"></a>
+          <img src="" alt="" class="card-image" id="cardImg">
+          <p>
+            <span id="cardType"></span>
+            <span id="cardEpisodes"></span>
+          </p>
+          <p id="cardSynopsis"></p>
+				</div>
+			</div>
+
+    </main>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

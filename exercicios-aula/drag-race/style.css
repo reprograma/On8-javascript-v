@@ -1,0 +1,47 @@
+body {
+  backgroud-color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+#titulo {
+  color: #eb5db7;
+}
+
+article {
+  width: 300px;
+  margin-top: 20px;
+}
+
+#img-box {
+  height: 250px;
+  overflow: hidden;
+  width: 280px;
+}
+
+.btn {
+  background-color: #eb5db7;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  width: 100px;
+  height: 30px;
+  outline: none;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+  border-radius: 8px;
+  outline: none;
+}
+
+.btn:hover {
+  border: 1px solid #eb5db7;
+  background-color: transparent;
+  color: #eb5db7;
+}
+
+img {
+  width: 100%;
+}
