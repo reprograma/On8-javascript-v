@@ -112,7 +112,6 @@ Existem diversos tipos de código HTTP, mas vou tratar aqui apenas dos mais comu
 Essa é uma lista resumida. Para a lista completa, recomendo a leitura abaixo:
 
 https://en.wikipedia.orgwiki/List_of_HTTP_status_codes
-https://www.w3.org/Protocols/HTTP/HTRESP.html
 */
 
 /*
