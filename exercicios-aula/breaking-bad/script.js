@@ -11,9 +11,13 @@ const getCharacters = async (number) => {
     ? `${baseURL}/characters?limit=${number}&offset=0`
     : `${baseURL}/characters?limit=62&offset=0`;
 
-  const response = await fetch(url);
-  const json = await response.json();
-  return json;
+  try {
+    const response = await fetch(url);
+    const json = await response.json();
+    return json;
+  } catch (err) {
+    console.log(error);
+  }
 };
 
 /*
