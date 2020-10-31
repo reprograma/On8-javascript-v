@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Breaking Bad</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1 class="title">Breaking Bad</h1>
+  <div class="input-box">
+    <div>
+      <input type="number" placeholder="informe o numero de personagens" value="" id="qtdCharacters" />
+      <button class="btn">Visualizar</button>
+    </div>
+    <div>
+      <label for="statusCharacters">Selecione o Status</label>
+      <select name="statusCharacters" id="statusCharacters">
+        <option value="all">Todos</option>
+        <option value="Alive">Vivo</option>
+        <option value="Deceased">Morto</option>
+      </select>
+    </div>
+  </div>
+  <ul class="cards"></ul>
+  <script src="script.js"></script>
+</body>
+
+</html>
