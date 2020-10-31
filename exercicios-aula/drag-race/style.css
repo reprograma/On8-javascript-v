@@ -1,3 +1,4 @@
+
 body {
   backgroud-color: #fff;
   display: flex;
@@ -40,6 +41,10 @@ input {
   border: 1px solid #eb5db7;
   background-color: transparent;
   color: #eb5db7;
+}
+
+#mensagem-erro {
+  color: red;
 }
 
 img {
