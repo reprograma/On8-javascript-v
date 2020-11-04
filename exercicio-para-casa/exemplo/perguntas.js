@@ -1,6 +1,6 @@
 /*
  1. O que é um Objeto? Por que ele é tão importante na linguagem JavaScript?
- 
+  
 */
 
   /*RESPOSTA:  Assim como os objetos palpaveis, objeto em javascript, tem a mesma funçao e 
